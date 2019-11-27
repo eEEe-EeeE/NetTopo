@@ -1,2 +1,5 @@
 .idea/
 NetTopo.iml
+/bin/
+.classpath
+.project
